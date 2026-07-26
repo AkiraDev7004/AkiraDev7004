@@ -19,7 +19,7 @@
 
 ### About me
 
-Just a girl under the moonlight writing code that moves on its own.
+Just a boy
 
 - Worms  
 - RATs  
