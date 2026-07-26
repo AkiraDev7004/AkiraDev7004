@@ -16,8 +16,7 @@
 Just a boy
 
 - Worms  
-- RATs  
-- Quiet payloads  
+- RATs   
 
 That’s it.
 
