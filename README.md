@@ -9,12 +9,6 @@
   <i>Worm & RAT Developer</i>
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/2nQ9pZ9pZ9pAAAAC/anime-girl-moon.gif" width="200">
-  <img src="https://media.tenor.com/3rT5sT5sT5sAAAAC/night-stars-anime.gif" width="200">
-  <img src="https://media.tenor.com/4uV6uV6uV6uAAAAC/full-moon-anime.gif" width="200">
-</p>
-
 ---
 
 ### About me
@@ -35,9 +29,7 @@ That’s it.
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRhcjZmMmI4b3lweThhdHNsbTVvcmJqc2E3aHlndTRtNG55d2Y1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5NE2L7vdWZ9V39Sjq8/giphy.gif" width="180">
 </p>
 
-- Self-spreading stuff  
-- Silent RATs  
-- Things that prefer the night
+- [AkiraRAT](https://github.com/AkiraDev7004/AkiraRAT)
 
 ---
 
