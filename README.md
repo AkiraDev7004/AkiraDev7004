@@ -32,7 +32,7 @@ That’s it.
 ### Currently working on
 
 <p align="center">
-  <img src="https://media.tenor.com/5wX7wX7wX7wAAAAC/anime-coding.gif" width="180">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRhcjZmMmI4b3lweThhdHNsbTVvcmJqc2E3aHlndTRtNG55d2Y1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5NE2L7vdWZ9V39Sjq8/giphy.gif" width="180">
 </p>
 
 - Self-spreading stuff  
