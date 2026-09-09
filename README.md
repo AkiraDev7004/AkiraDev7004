@@ -29,6 +29,8 @@ That’s it.
 </p>
 
 - [AkiraRAT](https://github.com/AkiraDev7004/AkiraRAT)
+- [BlackHatHacker](https://github.com/AkiraDev7004/BlackHatHacker-Local-LLM)
+- [WebsitePuller](https://github.com/AkiraDev7004/WebsitePuller)
 
 ---
 
